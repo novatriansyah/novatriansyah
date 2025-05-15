@@ -6,7 +6,7 @@
 
 ### Welcome! ![visitors](https://visitor-badge.glitch.me/badge?page_id=novatriansyah.novatriansyah)
 
-I'm a full stack developer with 3 years experience, i love programming, and writing.
+I'm a full stack developer with 5 years experience, i love programming, and writing.
 
 I always want to learn about new things to make myself better as a programmer.
 
